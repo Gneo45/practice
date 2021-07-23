@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "pseudo": "Gneo",
+      "message": "Comment ca va !",
+      "id": 1
+    },
+    {
+      "pseudo": "Gneo",
+      "message": "comment ca va!",
+      "id": 2
+    },
+    {
+      "pseudo": "Gneo",
+      "message": "comment ca va!",
+      "id": 3
+    }
+  ]
+}
